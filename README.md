@@ -10,7 +10,7 @@
 ### Connect me via:
 [Facebook](https://facebook.com/np_congdanh_sw)
 
-[My Youtube channel](https://www.youtube.com/channel/UCiNAqjrTOKTrYITtVp4_xJw)
+[Youtube channel](https://www.youtube.com/channel/UCiNAqjrTOKTrYITtVp4_xJw)
 
 [Instagram](https://www.instagram.com/dannn_hsw/)
 ### My logo :)))
