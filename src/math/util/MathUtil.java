@@ -16,6 +16,10 @@ public class MathUtil {
         //2.test ham = mat
         System.out.println("5! : " + MathUtility.getFactorial(5));
         // expected: 120
+        //va test bo data khac
+        System.out.println("0! : " + MathUtility.getFactorial(0));
+        //      e:1 , a:1 -> ok
+        //e: ném về ngoại lệ IllegalArgumentException
     }
     //Code viet ra thi Developer phai test truoc cai da
     //1. TDD, Test Driven Development
