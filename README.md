@@ -9,5 +9,7 @@
 
 ### Connect me via:
 [Facebook](https://facebook.com/np_congdanh_sw)
-![My Logo](/images/hinh1.jpg)
+
+*![My Logo](/images/hinh1.jpg)
+
 #### © 2020 by congdanh_sw
