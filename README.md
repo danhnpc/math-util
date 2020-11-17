@@ -9,6 +9,10 @@
 
 ### Connect me via:
 [Facebook](https://facebook.com/np_congdanh_sw)
+### My youtube channel:
+[My Youtube channel](https://www.youtube.com/channel/UCiNAqjrTOKTrYITtVp4_xJw)
+### My instagram:
+[Instagram](https://www.instagram.com/dannn_hsw/)
 ### My logo :)))
 ![My Logo](/images/hinh2.jpg)
 
