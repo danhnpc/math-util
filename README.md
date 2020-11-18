@@ -8,7 +8,7 @@
 * ...
 
 ### Connect me via:
-[Facebook](https://facebook.com/np_congdanh_sw)
+[Facebook](https://facebook.com/np.congdanh.sw)
 
 [Youtube channel](https://www.youtube.com/channel/UCiNAqjrTOKTrYITtVp4_xJw)
 
