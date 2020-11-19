@@ -20,6 +20,7 @@ public class MathUtil {
         System.out.println("0! : " + MathUtility.getFactorial(0));
         //      e:1 , a:1 -> ok
         //e: ném về ngoại lệ IllegalArgumentException
+        System.out.println("CI for today");
     }
     //Code viet ra thi Developer phai test truoc cai da
     //1. TDD, Test Driven Development
